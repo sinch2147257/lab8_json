@@ -1,12 +1,4 @@
-//{"records":[
-  // {"id":1,"name":"Vanilla Latte","price":156,"quantity":7,"Available":"yes","Rating":3.5},
- //  {"id":2,"name":"Cocoa Cappuccino","price":120,"quantity":4,"Available":"yes","Rating":4.5},
- //  {"id":3,"name":"White Chocolate Mocha","price":150,"quantity":0,"Available":"No","Rating":3.5},
- //  {"id":4,"name":"Kakori Kebab Wrap","price":300,"quantity":3,"Available":"yes","Rating":4.2},
- //  {"id":5,"name":"Carrot Cake","price":250,"quantity":20,"Available":"yes","Rating":3.8},
-  // {"id":6,"name":"Iced Shaken Black Tea","price":180,"quantity":0,"Available":"No","Rating":4.2},
-  // {"id":7,"name":"Iced Shaken Green Tea","price":200,"quantity":7,"Available":"yes","Rating":3.5},
-//]}
+
 
 
 {"records":[
