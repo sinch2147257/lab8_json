@@ -1,10 +1,9 @@
 {"records":[
-    {"id":1,"name":"Tenzin","age":22,"gender":"Male","salary":50000,"Address":"Bangalore"},
-    {"id":2,"name":"Yeshi","age":23,"gender":"Female","salary":70000,"Address":"Mumbai"},
-    {"id":3,"name":"David","age":26,"gender":"Male","salary":40000,"Address":"Delhi"},
-    {"id":4,"name":"Emma","age":25,"gender":"Female","salary":34000,"Address":"Kolkata"},
-    {"id":5,"name":"Nailea","age":22,"gender":"Female","salary":66000,"Address":"Pune"},
-    {"id":6,"name":"Carly","age":21,"gender":"Female","salary":21000,"Address":"Bangalore"},
-    {"id":7,"name":"Jeff","age":16,"gender":"Male","salary":39000,"Address":"Bangalore"},
-    {"id":8,"name":"Jason","age":19,"gender":"Male","salary":80000,"Address":"Delhi"}
+   {"id":1,"name":"Vanilla Latte","price":156,"quantity":7,"Available":"yes","Rating":3.5},
+   {"id":2,"name":"Cocoa Cappuccino","price":120,"quantity":4,"Available":"yes","Rating":4.5},
+   {"id":3,"name":"White Chocolate Mocha","price":150,"quantity":0,"Available":"No","Rating":3.5},
+   {"id":4,"name":"Kakori Kebab Wrap","price":300,"quantity":3,"Available":"yes","Rating":4.2},
+   {"id":5,"name":"Carrot Cake","price":250,"quantity":20,"Available":"yes","Rating":3.8},
+   {"id":6,"name":"Iced Shaken Black Tea","price":180,"quantity":0,"Available":"No","Rating":4.2},
+   {"id":7,"name":"Iced Shaken Green Tea","price":200,"quantity":7,"Available":"yes","Rating":3.5},
 ]}
